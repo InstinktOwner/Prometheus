@@ -22,10 +22,10 @@
 		"sign_in" => "Anmelden",
 
 		// Header errors and messages
-		"not_setup" => "You have not set up your panel properly! <a href='admin.php?a=gen&p=settings'>Click here</a> [Admin -> General Settings -> Settings]",
-		"header_sandbox" => "PayPal Sandbox is enabled. Only use sandbox for testing! You can disable it <a href='admin.php?a=gen&p=paypal'>here</a>",
+		"not_setup" => "Du hast Dein Panel nicht richtig installiert.! <a href='admin.php?a=gen&p=settings'>Klick hier</a> [Admin -> Allgemeine Einstellungen -> Einstellungen]",
+		"header_sandbox" => "PayPal Sandbox ist aktiviert. Nutze sandbox nur zum Testen! Du kannst es <a href='admin.php?a=gen&p=paypal'>hier</a> deaktivieren",
 		"missing_action" => "One or more packages is missing an action!",
-		"unfinished_action" => "You have an un-finished action in the 'Profile' page, <a href='profile.php'>here</a>",
+		"unfinished_action" => "Du hast eine Aktion in der <a href='profile.php'>Profilseite</a> nicht fertig gestellt.",
 
 		// Frontpage
 		"welcome" => "Willkommen - Anmelden",
@@ -142,8 +142,8 @@
 		"packages_and_actions" => "Pakete & Aktionen",
 		"credit_packages" => "Credit Pakete",
 		"raffles" => "Verlosungen",
-		"theme_editor" => "Theme editor",
-		"documentation" => "Documentation",
+		"theme_editor" => "Themen Editor",
+		"documentation" => "Dokumentation",
 
 		// General Settings
 		"settings" => "Einstellungen",
